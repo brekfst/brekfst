@@ -22,8 +22,7 @@ Hello! I'm **brekfst**, a passionate Minecraft developer based in Sydney, Austra
   - Performing general moderation to ensure a safe and enjoyable environment for players.
   - Organizing and managing server events to enhance community engagement.
 - **Achievements:**
-  - Developed **Sentinel Staff**, an all-in-one staff management system, featured on BuiltByBit.
-  - Created numerous custom plugins for FruitServers and various clients, significantly improving server functionality and player experience.
+  - Created numerous custom plugins for FruitServers, significantly improving server functionality and player experience.
 
 ### **Freelance Developer** *(2024 - Present)*
 - **Role:** Freelance Plugin and Configuration Developer
