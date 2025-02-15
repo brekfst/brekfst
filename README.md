@@ -16,7 +16,7 @@ Welcome to my GitHub portfolio! I'm a passionate systems administrator dedicated
 
 ## 💡 About Me
 
-I believe in continuous learning and proactive problem-solving. My work focuses on:
+I believe in continuous learning and proactive problem-solving. I'm currently an Admin+ at FruitServers, one of Australia’s most popular Minecraft servers, where I handle server development, event management, and system administration. My work involves optimizing performance, creating engaging player experiences, and ensuring smooth server operations.
 
 - **🔐 Automated Backups:**  
   • Encrypting and securely transferring data to Cloud Storage  
