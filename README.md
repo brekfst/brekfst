@@ -55,7 +55,6 @@ I believe in continuous learning and proactive problem-solving. I'm currently an
 - **Description:**  
   An automated system that encrypts data and securely sends backups to Oracle Cloud Object Storage, with daily uploads to AWS S3 Deep Glacial Storage (keeping only the latest 3 backups).
 - **Technologies:** Bash, Python, AWS, Oracle Cloud
-- **Repository:** [Backup System Repo](https://github.com/brekfst/backup-system) 
 
 ---
 
